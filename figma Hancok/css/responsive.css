@@ -1,0 +1,1198 @@
+@media(min-width: 1200px) and (max-width: 1399px){
+    #banner {
+        padding: 210px 0 111px 0;
+    }
+    .banner-text h1 {
+        font-size: 42px;
+        margin-top: 4px;
+    }
+    .banner-text p {
+        width: 440px;
+    }
+    .bnr-icon {
+        margin-top: 166px;
+    }
+    .about-head h2 {
+        font-size: 32px;
+    }
+    .about-text-right p {
+        width: 500px;
+    }
+    .popular-head h2 {
+        font-size: 28px;
+    }
+    .popular-head .dublicate1 {
+        margin-left: 1010px;
+    }
+    .next {
+        top: 79%;
+        left: 93%;
+    }
+    .prev {
+        top: 86%;
+        left: 93%;
+    }
+    .stream-head h2 {
+        font-size: 32px;
+    }
+    .stream-iteam video {
+        width: 360px;
+    }
+    .top-games-head h2 {
+        font-size: 24px;
+    }
+    .top-games-head .top-dub {
+        margin-left: 1040px;
+    }
+    .top-text h4 {
+        font-size: 17px;
+    }
+    .explore-text h3 {
+        font-size: 30px;
+    }
+    .explore-text p {
+        width: 501px;
+    }
+    .provide-head h2 {
+        font-size: 32px;
+    }
+    .provide-text h5 {
+        font-size: 16px;
+    }
+    .meet-head h2 {
+        font-size: 25px;
+    }
+    .meet-head .meet-dub {
+        margin-left: 1030px;
+    }
+    .meet-btn a {
+        font-size: 12px;
+    }
+    .icon1 i {
+        margin: 0 7px;
+    }
+    .faq-head h2 {
+        font-size: 27px;
+    }
+    .faq-text h4 {
+        font-size: 18px;
+    }
+    .faq-text h1 {
+        height: 60px;
+        width: 60px;
+    }
+    .for-after::before {
+        left: 499px;
+    }
+    .subs-text h3 {
+        font-size: 22px;
+    }
+}
+@media(min-width: 992px) and (max-width: 1199px){
+    #banner {
+        padding: 240px 0 111px 0;
+    }
+    .bnr-icon {
+        margin-top: 140px;
+    }
+    .banner-text h1 {
+        font-size: 38px;
+    }
+    .banner-text p {
+        width: 438px;
+    }
+    #nav ul li a {
+        font-size: 15px;
+    }
+    .about-head h2 {
+        font-size: 30px;
+    }
+    .about-text-right h3 {
+        font-size: 22px;
+    }
+    .about-text-right h6 {
+        font-size: 16px;
+    }
+    .about-text-right p {
+        width: 423px;
+    }
+    .about-bottom-text h1 {
+        font-size: 45px;
+    }
+    .about-bottom-text {
+        width: 224px;
+    }
+    .about-text-right h6 {
+        margin-top: 4px;
+    }
+    .popular-head h2 {
+        font-size: 22px;
+        margin-left: 588px;
+    }
+    .popular-head .dublicate1 {
+        margin-left: 853px;
+    }
+    .next {
+        top: 75%;
+        left: 93%;
+    }
+    .prev {
+        top: 83%;
+        left: 93%;
+    }
+    .stream-head h2 {
+        font-size: 26px;
+    }
+    .stream-iteam video {
+        height: 255px;
+        width: 302px;
+    }
+    .stream-bootom span {
+        font-size: 18px;
+        margin-left: 40px;
+    }
+    .stream-bootom {
+        width: 315px;
+    }
+    .top-games-head h2 {
+        margin-left: 548px;
+        font-size: 25px;
+    }
+    .top-games-head .top-dub {
+        margin-left: 867px;
+    }
+    .top-text h4 {
+        font-size: 15px;
+    }
+    .explore-text h3 {
+        font-size: 26px;
+    }
+    .explore-text p {
+        width: 424px;
+    }
+    .provide-head h2 {
+        font-size: 29px;
+    }
+    .provide-text h5 {
+        font-size: 13px;
+    }
+    .meet-head h2 {
+        margin-left: 461px;
+        font-size: 28px;
+    }
+    .meet-head .meet-dub {
+        margin-left: 847px;
+    }
+    .icon1 {
+        margin-left: 155px;
+    }
+    .meet-btn a {
+        font-size: 16px;
+    }
+    .faq-head h2 {
+        font-size: 25px;
+    }
+    .faq-text h4 {
+        font-size: 18px;
+    }
+    .for-after::before {
+        left: 454px;
+    }
+    .faq-text h1 {
+        height: 52px;
+        width: 52px;
+        line-height: 52px;
+    }
+    .subs-text h3 {
+        font-size: 19px;
+    }
+    .subs-right input {
+        margin-top: 4px;
+    }
+    .subs-right a {
+        top: 4px;
+    }
+    .ftr-left-text p {
+        width: 300px;
+    }
+    .ftr-left-icon i {
+        height: 36px;
+        width: 36px;
+        font-size: 18px;
+        line-height: 36px;
+        margin: 0 4px;
+    }
+    .ftr-item img {
+        width: 92%;
+    }
+}
+@media(min-width: 768px) and (max-width: 991px){
+    #nav{
+        background-color: #000;
+    }
+    #nav ul li a::after {
+        bottom: -2px;
+        left: 3%;
+    }
+    .nav-icon i {
+        margin-bottom: 10px;
+    }
+    .offcanvas {
+        height: 525px;
+        width: 603px;
+    }
+    .input2 {
+        margin-left: 36px;
+        margin-top: -7px;
+    }
+    #banner {
+        padding: 158px 0 63px 0;
+    }
+    .banner-text h1 {
+        font-size: 32px;
+        margin-top: 4px;
+    }
+    .banner-text p {
+        width: 308px;
+        margin-top: 8px;
+    }
+    .bnr-btn a {
+        margin-top: 5px;
+    }
+    .bnr-icon {
+        margin-top: 130px;
+    }
+    #about {
+        padding: 37px 0;
+    }
+    .about-head h2 {
+        font-size: 26px;
+    }
+    .about-text-right h3 {
+        font-size: 16px;
+    }
+    .about-text-right h6 {
+        font-size: 11px;
+        margin-top: 5px;
+    }
+    .about-text-right p {
+        width: 291px;
+        font-size: 15px;
+        line-height: 20px;
+    }
+    .about-btn a {
+        padding: 6px 10px;
+        font-size: 15px;
+        margin-top: -4px;
+    }
+    .about-bottom-text h1 {
+        font-size: 32px;
+    }
+    .about-bottom-text p {
+        font-size: 15px;
+    }
+    .about-bottom-text p::after {
+        width: 60px;
+    }
+    .about-bottom-text {
+        height: 90px;
+        width: 153px;
+    }
+    .popular-head h2 {
+        margin-left: 340px;
+        font-size: 22px;
+    }
+    .popular-head .dublicate1 {
+        margin-left: 605px;
+    }
+    .prev {
+        top: 81%;
+        left: 91%;
+        height: 36px;
+        width: 36px;
+        font-size: 18px;
+    }
+    .next {
+        top: 73%;
+        left: 91%;
+        width: 36px;
+        height: 36px;
+        font-size: 18px;
+    }
+    #live-stream {
+        padding: 45px 0;
+    }
+    .stream-head h2 {
+        font-size: 26px;
+    }
+    .stream-iteam video {
+        height: 200px;
+        width: 227px;
+    }
+    .stream-bootom span {
+        font-size: 14px;
+        margin-left: 20px;
+    }
+    .stream-bootom {
+        height: 95px;
+        width: 237px;
+    }
+    .st-2 span {
+        margin-right: 2px;
+    }
+    .stream-bootom-text h2 {
+        font-size: 30px;
+    }
+    #top-games {
+        padding: 40px 0;
+    }
+    .top-games-head h2 {
+        margin-left: 352px;
+        font-size: 22px;
+    }
+    .top-games-head .top-dub {
+        margin-left: 632px;
+        margin-bottom: -25px;
+    }
+    .explore-head h4 {
+        font-size: 22px;
+    }
+    .explore-text h3 {
+        font-size: 19px;
+    }
+    .explore-text p {
+        font-size: 14px;
+        width: 310px;
+    }
+    .explore-btn a {
+        padding: 7px 12px;
+        font-size: 14px;
+    }
+    .explore-img img {
+        width: 100%;
+    }
+    .provide-head h2 {
+        font-size: 26px;
+    }
+    #we-provide {
+        padding: 40px 0;
+    }
+    .provide-img img {
+        padding: 110px 30px;
+    }
+    .provide-head .provide-h1 {
+        margin-bottom: 32px;
+    }
+    #meet {
+        padding: 40px 0;
+    }
+    .meet-head h2 {
+        margin-left: 325px;
+        font-size: 22px;
+    }
+    .meet-head .meet-dub {
+        margin-left: 627px;
+    }
+    .meet-inner1 p {
+        font-size: 15px;
+        width: 326px;
+    }
+    .icon1 {
+        margin-left: 87px;
+    }
+    .icon1 i {
+        margin: 0 5px;
+    }
+    .meet-btn a {
+        font-size: 15px;
+        padding: 4px 6px;
+    }
+    .meet-img .meet-inner1 {
+        height: 156px;
+    }
+    .faq-head h2 {
+        font-size: 22px;
+    }
+    #faq {
+        padding: 40px 0;
+    }
+    .faq-text h4 {
+        font-size: 14px;
+    }
+    .faq-text h1 {
+        height: 50px;
+        width: 50px;
+        line-height: 50px;
+    }
+    .faq-text p {
+        width: 270px;
+        font-size: 14px;
+    }
+    .for-after::before {
+        left: 353px;
+    }
+    .for-after::after {
+        width: 100%;
+    }
+    .subs-text h3 {
+        font-size: 13px;
+    }
+    .subs-right input {
+        width: 230px;
+        margin-top: 0px;
+    }
+    .subs-right a {
+        top: 0px;
+        left: 155px;
+    }
+    .subs-right a {
+        width: 156px;
+    }
+    .ftr-left-text p {
+        width: 240px;
+        font-size: 15px;
+    }
+    .ftr-left-icon i {
+        height: 35px;
+        width: 35px;
+        font-size: 17px;
+        line-height: 35px;
+        margin: 0 2px;
+}
+.ftr-middle1 h3 {
+	font-size: 18px;
+}
+.ftr-middle2 h3 {
+	font-size: 18px;
+}
+.ftr-left h3 {
+	font-size: 18px;
+}
+.ftr-item img {
+	width: 92%;
+}
+
+}
+@media(min-width: 576px) and (max-width: 767px){
+    #nav{
+        background-color: #000;
+    }
+    #nav ul li a::after {
+        bottom: -2px;
+        left: 3%;
+    }
+    .offcanvas {
+        height: 474px;
+        width: 500px;
+    }
+    .input2 {
+        margin-left: 13px;
+        margin-top: -19px;
+    }
+    .input2 input {
+        margin-top: 10px;
+        height: 40px;
+        width: 439px;
+    }
+    .input2 textarea {
+        margin-top: 10px;
+        height: 100px;
+        width: 439px;
+    }
+    #banner {
+        padding: 109px 0 34px 0;
+    }
+    .banner-text h1 {
+        font-size: 25px;
+        margin-top: 3px;
+    }
+    .banner-text h3 {
+        font-size: 23px;
+    }
+    .banner-text p {
+        width: 213px;
+        font-size: 14px;
+    }
+    .bnr-btn a {
+        padding: 7px 9px;
+        font-size: 14px;
+        margin-top: 6px;
+    }
+    .bnr-icon {
+        margin-top: 80px;
+    }
+    .bnr-icon i {
+        height: 25px;
+        width: 25px;
+        line-height: 25px;
+        margin: 0 4px;
+        font-size: 15px;
+    }
+    .about-head h2 {
+        font-size: 23px;
+    }
+    .about-text-right h3 {
+        font-size: 20px;
+        margin-top: 25px;
+        margin-bottom: 10px;
+    }
+    .about-text-right p {
+        width: 480px;
+    }
+    .about-text-right h6 {
+        margin-top: 7px;
+    }
+    .about-btn a {
+        padding: 8px 12px;
+        font-size: 15px;
+        margin-top: 2px;
+    }
+    .about-bottom-text h1 {
+        font-size: 35px;
+    }
+    .about-bottom-text p {
+        font-size: 16px;
+    }
+    .about-bottom-text {
+        height: 92px;
+        width: 244px;
+    }
+    .about-bottom-text p::after {
+        width: 55px;
+    }
+    .popular-head h2 {
+        margin-left: 192px;
+        font-size: 20px;
+    }
+    .popular-head .dublicate1 {
+        margin-left: 433px;
+    }
+    .next {
+        top: 72%;
+        left: 91%;
+        width: 34px;
+        height: 34px;
+        line-height: 34px;
+        font-size: 18px;
+    }
+    .prev {
+        top: 83%;
+        left: 91%;
+        height: 34px;
+        width: 34px;
+        line-height: 34px;
+        font-size: 18px;
+    }
+    #popular {
+        padding: 20px 0;
+    }
+    .stream-head h2 {
+        font-size: 25px;
+    }
+    .stream-iteam video {
+        height: 185px;
+        width: 258px;
+    }
+    .stream-iteam .video2 {
+        height: 240px;
+        width: 480px;
+        margin-left: 20px;
+        margin-bottom: 20px;
+    }
+    .stream-bootom {
+        margin: auto;
+    }
+    #live-stream {
+        padding: 40px 0;
+    }
+    .top-games-head h2 {
+        margin-left: 156px;
+        font-size: 23px;
+    }
+    .top-games-head .top-dub {
+        margin-left: 449px;
+        margin-bottom: -50px;
+    }
+    .top-text h4 {
+        font-size: 16px;
+    }
+    #top-games {
+        padding: 40px 0;
+    }
+    .top-text p {
+        margin-top: 6px;
+    }
+    .explore-head h4 {
+        font-size: 22px;
+    }
+    .explore-text h3 {
+        font-size: 26px;
+    }
+    .explore-text p {
+        width: 400px;
+    }
+    .explore-btn a {
+        padding: 6px 10px;
+        font-size: 14px;
+        margin-bottom: 15px;
+    }
+    .provide-head h2 {
+        font-size: 23px;
+    }
+    #we-provide {
+        padding: 40px 0;
+    }
+    .provide-text h5 {
+        font-size: 15px;
+    }
+    .provide-head .provide-h1 {
+        margin-bottom: 30px;
+    }
+    .meet-head h2 {
+        font-size: 21px;
+    }
+    .meet-head .meet-dub {
+        margin-left: 448px;
+    }
+    .icon1 {
+        margin-left: 215px;
+    }
+    .icon1 i {
+        margin: 0 6px;
+    }
+    .meet-head h2 {
+        margin-left: 159px;
+    }
+    #meet {
+        padding: 40px 0;
+    }
+    .meet-btn a {
+        font-size: 15px;
+        padding: 4px 8px;
+    }
+    .meet-inner1 p {
+        font-size: 15px;
+        margin-top: 5px;
+        width: 318px;
+    }
+    .meet-img .meet-inner1 {
+        height: 155px;
+    }
+    .faq-head h2 {
+        font-size: 22px;
+        text-align: center;
+    }
+    #faq {
+        padding: 30px 0;
+    }
+    .faq-text h4 {
+        font-size: 17px;
+    }
+    .faq-text p {
+        width: 285px;
+        font-size: 15px;
+    }
+    .faq-text h1 {
+        height: 50px;
+        width: 50px;
+        line-height: 50px;
+    }
+    .for-after::after {
+        top: 0;
+        left: 0;
+        height: 0;
+        width: 0;
+    }
+    .for-after::before {
+        top: 0;
+        left: 0;
+        height: 0;
+        width: 0;
+    }
+    .faq-top{
+        margin-top: 10px;
+    }
+    .for-after {
+        margin-left: 50px;
+    }
+    .subs-text h3 {
+        font-size: 20px;
+        text-align: center;
+    }
+    .subs-right {
+        margin: 0 auto;
+        margin-top: 15px;
+    }
+    .ftr-left-text p {
+        width: 183px;
+        font-size: 15px;
+    }
+    .ftr-left-icon i {
+        height: 30px;
+        width: 30px;
+        font-size: 16px;
+        line-height: 30px;
+        margin: 0 3px;
+    }
+    .ftr-item img {
+        width: 93%;
+    }
+    .all-left{
+        margin-left: 22px;
+    }
+}
+
+@media(max-width: 575px){
+    #nav{
+        background-color: #000;
+    }
+    #nav ul li a::after {
+        bottom: -2px;
+        left: 3%;
+    }
+    .offcanvas {
+        height: 390px;
+        width: 356px;
+    }
+    .input2 {
+        margin-left: 3px;
+        margin-top: -28px;
+    }
+    .input2 input {
+        margin-top: 10px;
+        height: 35px;
+        width: 319px;
+    }
+    .input2 textarea {
+        margin-top: 10px;
+        height: 75px;
+        width: 319px;
+    }
+    #banner {
+        padding: 100px 0 35px 0;
+    }
+    .banner-text h1 {
+        font-size: 19px;
+        margin-top: 4px;
+    }
+    .banner-text h3 {
+        font-size: 20px;
+    }
+    .banner-text p {
+        width: 200px;
+        font-size: 14px;
+        line-height: 24px;
+        margin-top: 7px;
+    }
+    .bnr-btn a {
+        padding: 7px 12px;
+        font-size: 15px;
+        margin-top: 2px;
+    }
+    .bnr-icon {
+        margin-top: 55px;
+    }
+    .bnr-icon i {
+        height: 27px;
+        width: 27px;
+        margin: 0 3px;
+        line-height: 27px;
+    }
+    .about-head h2 {
+        font-size: 20px;
+        text-align: center;
+    }
+    .about-text-right h3 {
+        font-size: 18px;
+        margin-top: 20px;
+    }
+    .about-text-right h6 {
+        font-size: 16px;
+    }
+    .about-text-right p {
+        width: 325px;
+        font-size: 18px;
+        margin: 0 auto;
+        margin-top: 15px;
+    }
+    .about-btn {
+        text-align: center;
+        margin-top: 10px;
+    }
+    .about-btn a {
+        padding: 5px 10px;
+        font-size: 15px;
+    }
+    #about {
+        padding: 40px 0;
+    }
+    .about-img {
+        width: 350px;
+        height: 300px;
+        margin: 0 auto;
+    }
+    .about-img img {
+        width: 100%;
+        height: 100%;
+    }
+    #popular {
+        padding: 42px 0;
+    }
+    .popular-head h2 {
+        font-size: 18px;
+        text-align: center;
+    }
+    .about-bottom-text {
+        margin: 0 auto;
+    }
+    .about-text-right {
+        text-align: center;
+    }
+    .prev {
+        top: 90%;
+        left: 50%;
+        height: 30px;
+        width: 30px;
+        line-height: 30px;
+        font-size: 18px;
+    }
+    .next {
+        top: 90%;
+        left: 40%;
+        width: 30px;
+        height: 30px;
+        line-height: 30px;
+        font-size: 18px;
+    }
+    .stream-head h2 {
+        font-size: 20px;
+        text-align: center;
+    }
+    #live-stream {
+        padding: 40px 0;
+    }
+    .stream-iteam {
+        width: 356px;
+        height: 225px;
+        margin: 0 auto;
+    }
+    .stream-iteam video {
+        width: 100%;
+        height: 100%;
+    }
+    .stream-text h4 {
+        font-size: 22px;
+        margin-top: 10px;
+    }
+    .stream-bootom span {
+        font-size: 20px;
+    }
+    .stream-bootom-text h2 {
+        font-size: 36px;
+    }
+    .stream-bootom {
+        margin: 0 auto;
+    }
+    .top-games-head h2 {
+        font-size: 22px;
+        text-align: center;
+    }
+    .top-games-head .top-dub {
+        margin-bottom: -42px;
+    }
+    .top-img {
+        width: 350px;
+        height: 400px;
+        margin: 0 auto;
+    }
+    .w-100 {
+        width: 100%;
+        height: 100%;
+    }
+    .top-text {
+        text-align: center;
+    }
+    #top-games {
+        padding: 40px 0;
+    }
+    .explore-head h4 {
+        font-size: 22px;
+        text-align: center;
+    }
+    .explore-text {
+        text-align: center;
+    }
+    .explore-text h3 {
+        font-size: 19px;
+    }
+    .explore-text p {
+        font-size: 14px;
+        width: 290px;
+        margin: 0 auto;
+        margin-top: 10px;
+    }
+    .explore-btn {
+        text-align: center;
+        margin-top: 10px;
+    }
+    .explore-btn a {
+        padding: 5px 10px;
+        font-size: 14px;
+        margin-bottom: 12px;
+    }
+    .explore-img {
+        width: 343px;
+        height: 400px;
+        margin: 0 auto;
+    }
+    .explore-img img {
+        width: 100%;
+        height: 100%;
+    }
+    .provide-head h2 {
+        font-size: 22px;
+        text-align: center;
+    }
+    #we-provide {
+        padding: 40px 0;
+    }
+    .provide-img img {
+        padding: 105px 28px;
+    }
+    .provide-img {
+        width: 300px;
+        height: 400px;
+        margin: 0 auto;
+    }
+    .w-100 {
+        width: 100% !important;
+        height: 100%;
+    }
+    #meet {
+        padding: 40px 0;
+    }
+    .meet-head h2 {
+        font-size: 20px;
+        margin-top: 10px;
+        text-align: center;
+    }
+    .meet-img {
+        width: 350px;
+        height: 400px;
+        margin: 0 auto;
+    }
+  
+    .icon1 i {
+        margin: 0 5px;
+    }
+    .meet-btn a {
+        font-size: 16px;
+        padding: 3px 6px;
+    }
+    .meet-inner1 p {
+        font-size: 16px;
+        width: 340px;
+    }
+    .meet-img .meet-inner1 {
+        height: 158px;
+    }
+    .meet-inner h3 {
+        font-size: 18px;
+    }
+    .faq-head h2 {
+        font-size: 21px;
+        text-align: center;
+    }
+    #faq {
+        padding: 30px 0;
+    }
+    .faq-text h4 {
+        font-size: 15px;
+    }
+    .faq-text p {
+        width: 280px;
+        font-size: 15px;
+    }
+    .faq-text{
+        display: flex;
+        justify-content: center;
+    }
+    .faq-text h1 {
+        height: 42px;
+        width: 42px;
+        line-height: 42px;
+    }
+    .for-after::after {
+        top: 0;
+        left: 0;
+        height: 0;
+        width: 0;
+    }
+    .for-after::before {
+        top: 0;
+        left: 0;
+        height: 0;
+        width: 0;
+    }
+    .faq-top{
+        margin-top: 10px;
+    }
+    .f-bottom{
+        margin-bottom: -34px;
+    }
+    .subs-text h3 {
+        font-size: 13px;
+        text-align: center;
+    }
+    .subs-right {
+        margin: 0 auto;
+        margin-top: 15px;
+    }
+    .subs-right input {
+        width: 308px;
+    }
+    .subs-right a {
+        width: 145px;
+    }
+    .subs-right a {
+        left: 70%;
+    }
+    .all-left{
+        text-align: center;
+    }
+    .ftr-left-text p {
+        width: 339px;
+        font-size: 18px;
+        margin: 15px auto;
+    }
+    .ftr-left-icon i {
+        height: 35px;
+        width: 35px;
+        font-size: 18px;
+        line-height: 35px;
+        margin: 0 3px;
+    }
+}
+@media(min-width: 300px) and (max-width: 380px){
+    .offcanvas {
+        height: 370px;
+        width: 281px;
+    }
+    .input2 input {
+        height: 30px;
+        width: 245px;
+    }
+    .input2 textarea {
+        height: 67px;
+        width: 245px;
+    }
+    .banner-text h3 {
+        font-size: 18px;
+    }
+    .banner-text h1 {
+        font-size: 15px;
+    }
+    .banner-text p {
+        width: 276px;
+        font-size: 15px;
+    }
+    .about-head h2 {
+        font-size: 18px;
+    }
+    .about-img {
+        width: 302px;
+    }
+    .about-text-right h3 {
+        font-size: 18px;
+    }
+    .about-text-right h6 {
+        font-size: 15px;
+        margin-top: 15px;
+    }
+    .about-text-right p {
+        width: 238px;
+        font-size: 16px;
+    }
+    .about-btn a {
+        margin-left: 96px;
+    }
+    .center {
+        margin-left: 3px;
+    }
+    .popular-head h2 {
+        margin-left: 44px;
+        font-size: 13px;
+    }
+    .popular-head .dublicate1 {
+        margin-left: 195px;
+    }
+    .prev {
+        left: 53%;
+    }
+    .stream-iteam video {
+        height: 168px;
+        width: 276px;
+    }
+    .stream-bootom span {
+        font-size: 15px;
+        margin-left: 28px;
+    }
+    .stream-bootom {
+        width: 278px;
+    }
+    .top-games-head h2 {
+        font-size: 17px;
+    }
+    .top-text h4 {
+        font-size: 19px;
+    }
+    .explore-text h3 {
+        font-size: 14px;
+    }
+    .explore-text p {
+        font-size: 13px;
+        width: 255px;
+    }
+    .provide-head h2 {
+        font-size: 20px;
+    }
+    .provide-text h5 {
+        font-size: 17px;
+    }
+    .meet-head h2 {
+        font-size: 15px;
+    }
+    .meet-inner1 p {
+        font-size: 14px;
+        width: 315px;
+    }
+    .icon1 {
+        margin-left: 30px;
+    }
+    .faq-head h2 {
+        font-size: 17px;
+    }
+    .faq-text h4 {
+        font-size: 11px;
+    }
+    .faq-text p {
+        width: 208px;
+        font-size: 14px;
+    }
+    .subs-right input {
+        width: 223px;
+    }
+    .subs-right a {
+        width: 130px;
+    }
+    .subs-right a {
+        left: 115px;
+    }
+    .ftr-left-text p {
+        width: 255px;
+        font-size: 15px;
+    }
+    .ftr-item{
+        overflow: hidden;
+    }
+}
